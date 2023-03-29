@@ -1,0 +1,3 @@
+if true ; false ; false ; false 
+then echo bah je pense c false ; else /bin/echo ca va print le else
+fi

@@ -1,0 +1,2 @@
+if true; then echo hihi; fi
+if false; then echo haha; else echo houhou ; fi

@@ -1,0 +1,4 @@
+if false ; true
+then echo dans le true
+else echo parti dans le else
+fi

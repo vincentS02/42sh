@@ -1,0 +1,4 @@
+if true
+then echo allah
+else echo mes couilles
+fi

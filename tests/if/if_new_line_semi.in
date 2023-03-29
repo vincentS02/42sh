@@ -1,0 +1,3 @@
+if /bin/echo ; then echo c cense echo
+else
+echo bah nan ; fi

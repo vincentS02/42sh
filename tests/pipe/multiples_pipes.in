@@ -1,0 +1,1 @@
+echo tooooooooooooooo | /bin/cat -e | /bin/cat -n | /bin/cat -n | /bin/cat -e

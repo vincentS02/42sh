@@ -1,0 +1,1 @@
+if false; then echo "This will never execute"; else echo "This is false" fi

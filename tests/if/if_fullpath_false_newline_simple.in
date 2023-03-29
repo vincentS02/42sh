@@ -1,0 +1,3 @@
+if /bin/false
+then /bin/false
+fi

@@ -1,0 +1,1 @@
+/bin/cat ../tests/names.txt | /bin/sort

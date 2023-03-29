@@ -1,0 +1,3 @@
+if false
+then echo hello ; else echo parti dans le else
+fi
